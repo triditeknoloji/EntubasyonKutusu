@@ -13,6 +13,7 @@ Entübasyon kutusu yapmak için gerekli olan lazer kesim ve 3D baskı dosyaları
 * 5 mm Pleksiglas
 * ABS Flament (Basılacak parçaların biraz esnek olması gerekmekte ve PLA bu esnekliği sağlayamamaktadır.)
 * TPU Flament (Kol girecek kısımlar için basılacak parçaların esnek olması gerektiği için.)
+* 2'şer adet 15 mm Metrik4 vida, buna uygun fiberli somun ve uygun pul.
 
 
 ## Baskı Parametreleri
